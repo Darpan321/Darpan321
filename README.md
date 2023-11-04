@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darpan321
+- 👋 Hi, I’m Darpan
 - 👀 I’m interested in Coding
 - 🌱 I’m currently upgrading my Coding Skills
 - 💞️ I’m looking to collaborate on any Code related issues
